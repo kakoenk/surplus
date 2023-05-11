@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonLogin</name>
+   <tag></tag>
+   <elementGuidId>add16552-ef73-4eb8-918c-210b3c858993</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@text=&quot;LOGIN&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@text=&quot;LOGIN&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textViewPassword</name>
+   <tag></tag>
+   <elementGuidId>c276d11f-4c04-4531-95a3-f569829aa531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text=&quot;password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text=&quot;password&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
